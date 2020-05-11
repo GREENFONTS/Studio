@@ -1,0 +1,16 @@
+#mainNav{
+    filter: blur(0px) contrast(99%) hue-rotate(0deg) invert(0%) saturate(67%) sepia(0%);
+   transform: translateY(0%);
+}
+#navbarResponsive{
+    margin-right: 0px;
+    width: 400px;
+}
+#navbarResponsive ul{
+    width: 500px;
+    padding-left: 10px;
+    margin-right: 50px;
+}
+footer .social a i{
+    font-size: 50px;
+}
